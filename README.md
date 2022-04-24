@@ -1,5 +1,11 @@
 Hi 👋 My name is Juan Andrade
-=============================Fullstack software engineer---------------------------Self-taught developer for 1 year* 🌍  I'm based in Brasília, brasil
+=============================
+Fullstack software engineer
+---------------------------
+
+Self-taught developer for 1 year
+
+* 🌍  I'm based in Brasília, brasil
 
 ### Skills
 
