@@ -3,7 +3,7 @@ Hi 👋 My name is Juan Andrade
 Fullstack software engineer
 ---------------------------
 
-Self-taught developer for 1 year
+Self-taught Developer for 2 years
 
 * 🌍  I'm based in Brasília, brasil
 
