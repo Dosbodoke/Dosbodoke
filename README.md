@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm a self-taught fullstack developer from Brazil<br><br>- 🔭 I’m working at CERTI, a <b>Research and Development institute</b> <br>- 📚 I'm currently focusing on learning advanced animations<br>- ⚡ In my free time I do sports so I don't go crazy</p>
+<p align="left">I'm a self-taught developer from Brazil who is fascinated by creating high-quality software<br><br>- 🔭 I’m working at CERTI, a <b>Research and Development institute</b> <br>- 📚 I'm currently focusing on learning advanced animations<br>- ⚡ In my free time I do sports so I don't go crazy</p>
 
 ###
 
