@@ -62,6 +62,20 @@
 
 ###
 
+<h3 align="left">⚡ Cheatsheet :</h3>
+
+
+Set up `git lg`, a command for better log visualization, insert it under [alias] using `git config --gloabl --edit`
+
+```bash
+[alias]
+lg1 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold g>
+lg2 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold c>
+lg = !"git lg1"
+```
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -77,3 +91,4 @@
 </div>
 
 ###
+
